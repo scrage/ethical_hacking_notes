@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "970702ed361dd3ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "103e70b38c9a17d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b18e1574a99ab28d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hack The Box/Starting Point - Tier 1/05 Three - Cloud, AWS, Web Site Structure Discovery, Arbitrary File Upload, Anonymous or Guest Access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1dcad90eadd0b98",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "IMAGES/HTB/ACHIEVEMENTS/Pasted image 20240902134329.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce9be14964da7552",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0b5cae72fc14c78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1bceb0bafa1d273",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7dc218930ac500a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b04d0baf51f437f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32868c52e1d4ffe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf14207868111a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e171621b8b401c84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IMAGES/HTB/ACHIEVEMENTS/Pasted image 20240902134329.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d29e63e9468e52b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IMAGES/HTB/ACHIEVEMENTS/Pasted image 20240902134329.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0cbc0208d310a967",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "276ef2c3971a2b71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IMAGES/HTB/ACHIEVEMENTS/Pasted image 20240902134329.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e1bceb0bafa1d273",
+  "lastOpenFiles": [
+    "Hack The Box/Starting Point - Tier 1/06 Ignition - Magento, Weak Credentials, Web Site Structure Discovery.md",
+    "IMAGES/HTB/ACHIEVEMENTS/Pasted image 20240902134329.png",
+    "IMAGES/HTB/NOTES/Pasted image 20240902133654.png",
+    "Hack The Box/Starting Point - Tier 1/05 Three - Cloud, AWS, Web Site Structure Discovery, Arbitrary File Upload, Anonymous or Guest Access.md",
+    "IMAGES/HTB/NOTES/Pasted image 20240902132321.png",
+    "IMAGES/HTB/NOTES/Pasted image 20240902131506.png",
+    "Useful Pages & Repos.md",
+    "IMAGES/HTB/ACHIEVEMENTS/Pasted image 20240901134959.png",
+    "IMAGES/HTB/NOTES/Pasted image 20240901131816.png",
+    "Useful GitHUB repos",
+    "Exploitations/Reverse Shells & Bind Shells.md",
+    "Hack The Box/Starting Point - Tier 0/04 Redeemer - Redis, Databases, Anonymous or Guest Access, Vulnerability Assessment, Reconnaissance.md",
+    "Hack The Box/Starting Point - Tier 0/03 Dancing - SMB, Protocols, Anonymous or Guest Access, Reconnaissance.md",
+    "Hack The Box/Starting Point - Tier 0/02 Fawn - FTP, Protocols, Anonymous or Guest Access, Reconnaissance.md",
+    "Hack The Box/Starting Point - Tier 0/01 Meow - Telnet, Protocols, Weak Credentials, Reconnaissance.md",
+    "Hack The Box/Starting Point - Tier 0/08 Synced - Rsync, Protocols, Anonymous or Guest Access, Reconnaissance.md",
+    "Hack The Box/Starting Point - Tier 0/07 Mongod - MongoDB, Databases, Anonymous or Guest Access, Misconfiguration, Reconnaissance.md",
+    "Hack The Box/Starting Point - Tier 0/06 Preignition - Apache, Custom Applications, Web Site Structure Discovery, Default Credentials, Reconnaissance.md",
+    "Hack The Box/Starting Point - Tier 0/05 Explosion - Programming, RDP, ,Weak Credentials, Reconnaissance.md",
+    "IMAGES/HTB/NOTES/Pasted image 20240831140234.png",
+    "IMAGES/Pasted image 20240825142721.png",
+    "IMAGES/Pasted image 20240825143503.png",
+    "Hack The Box/Starting Point - Tier 1/05 Three.md",
+    "Basics/Common Linux File System and Commands.md",
+    "Basics/Bash Scripting.md",
+    "IMAGES/HTB/NOTES/Pasted image 20240831135625.png",
+    "Hack The Box/Starting Point - Tier 1/04 Responder - WinRM, Protocols, XAMPP, SMB, Responder, PHP, Hash Capture, Remote Code Execution.md",
+    "Basics/TCP, UDP, and the Three-Way Handshake.md",
+    "Methods & Practice/5 Stages of Ethical Hacking.md",
+    "=== TODO - BACKLOG ===.md",
+    "TODO - Subnetting.md",
+    "Hack The Box/Starting Point - Tier 1/03 Crocodile - FTP ,Apache, Protocols, Anonymous or Guest Access, Web Site Structure Discovery.md",
+    "Hack The Box/Starting Point - Tier 1/02 Sequel - Vulnerability Assessment, SQL, MySQL, Databases, Weak Credentials, Reconnaissance.md",
+    "Hack The Box/Starting Point - Tier 1/01 Appointment - Databases, Apache, MariaDB, PHP, SQL, SQL Injection.md",
+    "Hack The Box/Starting Point - Tier 1",
+    "Methods & Practice/Scanning & Enumeration.md",
+    "Exploitations/Brute Force Attacks.md",
+    "IMAGES/HTB/ACHIEVEMENTS",
+    "IMAGES/HTB/NOTES",
+    "IMAGES/HTB",
+    "Hack The Box/Starting Point - Tier 0",
+    "Hack The Box",
+    "Exploitations",
+    "Methods & Practice",
+    "IP Commands"
+  ]
+}
