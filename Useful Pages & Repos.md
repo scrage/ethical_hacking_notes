@@ -5,3 +5,4 @@
 | [Pentest Monkey](https://pentestmonkey.net/)                                         | Pentest Cheat Sheets & Tools                                                       |
 | [InternalAllTheThings](https://swisskyrepo.github.io/InternalAllTheThings/_)         | Cheat Sheets & Tools                                                               |
 | [High On Coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/_) | Pentesting Tools and writeups                                                      |
+| [Osintgram](https://github.com/Datalux/Osintgram)                                    | OSINT tool for instagram                                                           |
